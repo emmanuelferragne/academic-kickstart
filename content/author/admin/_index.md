@@ -1,45 +1,46 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Emmanuel Ferragne"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Associate Professor of Phonetics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Paris Diderot University", url = "https://www.univ-paris-diderot.fr/" }, { name = "Laboratoire de Phonétique et Phonologie", url = "http://lpp.in2p3.fr/"}]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Phonetician, AI enthusiast, occasional musician, amateur kickboxer."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "{Socio|Neuro}-Phonetics",
+  "Forensic voice comparison",
+  "AI & Humanities",
+  "Metal Studies"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Phonetics"
+  institution = "Université Lyon 2"
   year = 2008
+
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
+
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
 
 # Social/Academic Networking
 #
@@ -62,23 +63,33 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:emmanuel.ferragne@univ-paris-diderot.fr" 
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#[[social]]
+# icon = "twitter"
+# icon_pack = "fab"
+# link = "https://twitter.com/GeorgeCushen"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+#[[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
-
+  link = "https://github.com/emmanuelferragne"
+  
+  [[social]]
+  icon = "academia"
+  icon_pack = "ai"
+  link = "https://univ-paris-diderot.academia.edu/EmmanuelFerragne"
+  
+  [[social]]
+  icon = "youtube"
+  icon_pack = "fab"
+  link = "https://www.youtube.com/channel/UCSvDv4xXiPzYN2np_i3FyVA?view_as=subscriber"
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -88,6 +99,7 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I've been a **Maître de Conférences** (Associate Professor) in English phonetics at Université Paris Diderot since 2009. For the year 2018-2019, I'm a full-time CNRS researcher at [Laboratoire de Phonétique et Phonologie] (http://lpp.in2p3.fr/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I initially studied **translation**, then moved to **English studies** where I developed a keen interest for **linguistics and phonetics**. I've always enjoyed the most technical aspects of my job: working with instruments (ultrasound imaging, EEG, EGG, etc.), programming and data analysis (Praat, R, Matlab, C#, Python, etc.). I've been doing this for almost 20 years so, although I've had no formal training, you could probably call me a **data scientist**.  
+
