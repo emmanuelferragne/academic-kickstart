@@ -19,7 +19,7 @@ type = "docs"  # Do not modify.
 This page is in French because it mainly targets people studying in France.
 {{% /alert %}}
 
-## Avant le Master
+## Préparez votre Master
 
 Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond. 
 
