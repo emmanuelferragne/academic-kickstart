@@ -86,6 +86,11 @@ interests = [
   link = "https://univ-paris-diderot.academia.edu/EmmanuelFerragne"
   
   [[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Emmanuel_Ferragne"
+  
+  [[social]]
   icon = "youtube"
   icon_pack = "fab"
   link = "https://www.youtube.com/channel/UCSvDv4xXiPzYN2np_i3FyVA?view_as=subscriber"
