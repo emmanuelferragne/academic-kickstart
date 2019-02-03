@@ -26,8 +26,8 @@ slides = ""
 # Links (optional).
 #url_pdf = ""
 #url_slides = ""
-url_video = "https://www.youtube.com/watch?v=cJJtYiWifbY"
-url_code = "https://github.com/ohbot/ohbot-python/tree/master/examples/ohbotOperaTutorial"
+#url_video = "https://www.youtube.com/watch?v=cJJtYiWifbY"
+#url_code = "https://github.com/ohbot/ohbot-python/tree/master/examples/ohbotOperaTutorial"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
