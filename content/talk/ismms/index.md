@@ -16,7 +16,7 @@ abstract = "Somebody’s pronunciation says a lot about who they are: geographic
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "4th Conference of the International for Metal Music Studies"
+event = "4th Conference of the International Society for Metal Music Studies"
 event_url = "http://www.francemetalstudies.org/programme/"
 
 # Location of event.
