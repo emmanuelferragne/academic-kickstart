@@ -23,7 +23,7 @@ event_url = "https://pacaix2019.sciencesconf.org/?forward-action=index&forward-c
 location = "Aix-en-Provence"
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
