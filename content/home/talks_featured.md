@@ -1,7 +1,7 @@
 +++
 # Featured Talks widget.
 widget = "talks_featured"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Featured Talks"
@@ -14,5 +14,5 @@ weight = 29
 #   0 = Simple
 #   1 = Detailed
 #   3 = Stream
-list_format = 0
+list_format = 1
 +++
