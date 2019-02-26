@@ -3,7 +3,7 @@ title = "In Birming[hæm] they love the governor"
 subtitle = "The pronunciation of place names."
 
 date = 2018-02-16T00:00:00
-lastmod = 2018-02-16T00:00:00
+lastmod = 2018-02-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -41,12 +41,30 @@ The pronunciation of place names (aka toponyms) is hard to predict from the spel
 |Loughborough| /ˈlʌfbərə/| /ˈlɒxbʌrə/ ?|
 |Cholmondeley| /ˈtʃʌmli/| ??? |
 
+## French place names
 
 I'm a native speaker of French but I'm not 100% sure about the pronunciation of:
 
 - Metz : is it /mɛs/, /mɛts/, /mɛz/ or /mɛdz/ ?
 - Bruxelles : /bʁysɛl/ or /bʁyksɛl/; it seems people favour the former.
 - Auxerre : /osɛʁ/ or /oksɛʁ/; again, people seem to prefer the counterintuitive pronunciation (the grapheme \<x\> being most often /ks/ elsewhere)
+
+A frequent difficulty is whether the last letter should be pronounced:
+
+| Place Name   |    Pronounce final letter?  |
+|:----------:|:-------------:|
+|Anvers| + |
+|Arnas| + |
+|Avoriaz| - |
+|Chamonix| - |
+|Gex| + |
+|Juliénas| - |
+|(Les) Vans| + |
+|Paris| - |
+|Ruoms| + |
+|Saint-Genie**z**(-d'Olt) | ? |
+|Saint-Geni**s**(-les-Ollières) | - |
+|Saint-Jean-de-Lu**z**| + |
 
 ## Bourg-en-Bresse
 
