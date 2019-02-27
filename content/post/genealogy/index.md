@@ -49,13 +49,12 @@ At the end of the whole process, the html file looks like this:
 </map>
 ```
 
-The first line of the html says where the picture is on the disk and specifies its size. Then a `map` tag is created with  with clickable areas: whenever you hover over a face, the tag you entered is displayed. Here, the `area` tag has **4 attributes** : 
+The first line of the html says where the picture is on the disk and specifies its size. Then a `map` tag is created with clickable areas: whenever you hover over a face, the tag you entered is displayed. Here, the `area` tag has **4 attributes** : 
 
 - `shape`, with the value `rect` for rectangle
 - `coords`, the coordinates of the rectangular shape
 - `href`, a hyperlink to some other html file
 - `title`, the text that is displayed when the cursor is placed on the area
-
 
 
 {{% alert note %}}
