@@ -19,7 +19,7 @@ type = "docs"  # Do not modify.
 This page is in French because it mainly targets people studying in France.
 {{% /alert %}}
 
-## Préparez votre Master
+## Avant le Master
 
 Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond. 
 
@@ -27,5 +27,5 @@ Si cela vous intéresse, merci de me contacter dès le mois de juin pour l'anné
 
 ## Etudiants de Master
 
-Mon guide pour la mise en forme du mémoire de Master en Etudes Anglophones est disponible [ici] (guideMiseEnFormeV02.pdf) ; la plupart des conseils s'appliquent aussi à la rédaction d'un mémoire en général. 
+Mon guide pour la mise en forme du mémoire de Master en Etudes Anglophones est disponible [ici] (guideMiseEnFormeV02.pdf) ; la plupart des conseils s'appliquent aussi à la rédaction d'un mémoire en général. La feuille de style LaTeX dont je parle dans ce guide génère [ce type de rendu] (memoirthesis.pdf) et elle est téléchargeable [ici] (latexTemplate.zip).  
 
