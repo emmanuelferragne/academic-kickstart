@@ -50,6 +50,15 @@ I'm involved in 2 key aspects of the project:
 1. the acoustic-phonetic modelling of between-speaker variation
 2. the perceptual and neural correlates of voice comparison
 
+## Participants:
+- Service Central de la Police Technique et Scientifique
+- Institut de Recherche Criminelle de la Gendarmerie Nationale
+- [Laboratoire National de Métrologie et d'Essais (LNE)] (https://www.lne.fr/)
+- [Laboratoire Informatique d'Avignon (LIA)] (http://lia.univ-avignon.fr/)
+- [Laboratoire Parole et Langage] (http://www.lpl-aix.fr/)
+- [Laboratoire de Phonétique et Phonologie](http://lpp.in2p3.fr/)
+
+
 {{% alert note %}}
 More info coming soon...
 {{% /alert %}}
