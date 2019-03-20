@@ -57,7 +57,7 @@ My colleague [Maud Pélissier](https://univ-paris3.academia.edu/MaudP%C3%A9lissi
 With 1 electrode in the occipital region, eyes closed, we get very decent alpha waves (band-pass filtered):
 ![alpha waves](alphaPourSite.png)
 
-Although it is not directly comparable partly because of our imperfect ad-hoc post-sync method, here is the signal recorded at the same location with our pro-grade system with an estimatd lag of -300 to 300 ms re the EEGino Pi signal.
+Although it is not directly comparable partly because of our imperfect ad-hoc post-sync method, here is the signal recorded at the same location with our pro-grade system with an estimated lag of -300 to 300 ms re the EEGino Pi signal.
 
 ![alpha waves](alphaPourSiteEEGPro.png)
 
