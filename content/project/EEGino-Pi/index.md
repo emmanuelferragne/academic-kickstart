@@ -67,7 +67,7 @@ Time-frequency representation for the EEGino Pi:
 Corresponding time-frequency plot for the pro EEG: 
 ![scalogram](tFreqEEGPro.png)
 
-**From this rather informal visual test, it seems that our prototype could be a good substitute for a professional EEG system in cases where spatial resolution and bit depth are not critical.**
+**From this rather informal visual test, it seems that our prototype is a good substitute for a professional EEG system in cases where spatial resolution and bit depth are not critical.**
 
 {{% alert note %}}
 More info coming soon (hopefully)... stay tuned!
