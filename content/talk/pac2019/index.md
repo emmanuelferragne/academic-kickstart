@@ -1,5 +1,5 @@
 +++
-title = "Phonetics and Artifical Intelligence: ready for the paradigm shift?"
+title = "Phonetics and Artificial Intelligence: ready for the paradigm shift?"
 date = 2019-01-15T00:00:00  # Schedule page publish date.
 draft = false
 
