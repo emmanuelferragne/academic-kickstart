@@ -26,7 +26,7 @@ abstract = "This  paper  studies  the  use  of  a  lip  retractor  as  a  potent
 abstract_short = "This  paper  studies  the  use  of  a  lip  retractor  as  a  potential  technique  for  phonetic  studies  involving perturbation. This device is currently used by participants of the internet sensation, the so-called ''no lips'' or ''mouth guard'' challenge. Wearing the device restricts the use of the lips during speech. We present  acoustic  and  articulatory  data  from  four  speakers  of  British  English."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
