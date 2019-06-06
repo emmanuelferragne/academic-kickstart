@@ -23,7 +23,7 @@ event_url = "https://pacaix2019.sciencesconf.org/?forward-action=index&forward-c
 location = "Aix-en-Provence, Laboratoire Parole et Langage, 5 Avenue Pasteur"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
