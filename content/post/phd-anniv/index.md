@@ -42,12 +42,12 @@ At the end of the manuscript, there was a short discussion on the potential mism
 
 In 2008, fuzzy expert systems were on the wane. But I thought it would be fun to build a rule-based system to guess somebody's accent. Vowels can be quite/rather/very/rather not similar/dissimilar: fuzzy set logic offers the possibility to model this sort of vagueness. I actually did not design a full system, just a subsets of preliminary rules. The figure shows a made-up toy example. There are 5 rules applied to the acoustic distances between the following pairs: TRAP-BATH, FOOT-GOOSE, NURSE-SQUARE,FOOT-STRUT and LOT-THOUGHT. In the figure, rules 3 to 5 are activated:
 
-3. if FOOT-GOOSE is small, then Glasgow (gla) is likely, Liverpool (lvp) is unlikely, and Standard Southern British English (sse) is unlikely; here FOOT-GOOSE is small. 
+* if FOOT-GOOSE is small, then Glasgow (gla) is likely, Liverpool (lvp) is unlikely, and Standard Southern British English (sse) is unlikely; here FOOT-GOOSE is small. 
 
-4. if LOT-THOUGHT is small, then *gla* is likely, *lvp* is unlikely, and *sse* is unlikely; here LOT-THOUGHT is small.
+* if LOT-THOUGHT is small, then *gla* is likely, *lvp* is unlikely, and *sse* is unlikely; here LOT-THOUGHT is small.
 
 
-5. if TRAP-BATH is big, then *gla* is unlikely, *lvp* is unlikely, and *sse* is likely; here TRAP-BATH is big. 
+* if TRAP-BATH is big, then *gla* is unlikely, *lvp* is unlikely, and *sse* is likely; here TRAP-BATH is big. 
 
 
 ![fuzzy](fuzzyRules.png)
