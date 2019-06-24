@@ -23,7 +23,7 @@ event_url = "http://www.francemetalstudies.org/programme/"
 location = "Nantes"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
