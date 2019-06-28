@@ -38,7 +38,7 @@ projects = ["voxcrim"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep learning", "Forensic", "Phonetics", "Artificial Intelligence"]
+tags = ["Deep Learning", "Forensic", "Phonetics", "Artificial Intelligence"]
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/publication/333118373_DEEP_LEARNING_AND_VOICE_COMPARISON_PHONETICALLY-MOTIVATED_VS_AUTOMATICALLY-LEARNED_FEATURES"
