@@ -26,7 +26,7 @@ abstract = "Drawing from Trudgill's finding that some American phonetic features
 #abstract_short = "Drawing from Trudgill's finding that some American phonetic features are common in British pop-songs, this paper explores whether this principle applies to a genre as distinctly British (in its original form) as Heavy Metal."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
