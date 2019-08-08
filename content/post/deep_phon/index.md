@@ -24,7 +24,7 @@ summary = "On the deep learning approach to phonetics."
 
 +++
 {{% alert note %}}
-Rough sketch; more to come soon...
+Rough sketch; more coming soon...
 {{% /alert %}}
 
 I've had a number of discussions with colleagues about what I call the **deep learning approach to phonetics**. It seems that no matter how carefully I think I introduce my views (e.g. in a recent invited talk, various conference papers, and even a grant application), some **misconceptions** remain as to what I'm trying to achieve and, more generally, regarding the use of artificial neural networks. Let me set the record straight.
