@@ -1,6 +1,6 @@
 +++
 title = "Here in my deep purple dreams"
-subtitle = "On the deep learning approach to phonetics."
+subtitle = "On the deep learning approach to phonetics: black boxes?"
 
 date = 2019-07-22T00:00:00
 lastmod = 2019-07-22T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = ["Admin"]
 
 tags = ["Deep Learning"]
-summary = "On the deep learning approach to phonetics."
+summary = "On the deep learning approach to phonetics: black boxes?"
 [image]
   # Caption (optional)
   #caption = "Photo by Vlah Dumitru on Unsplash"
@@ -23,16 +23,12 @@ summary = "On the deep learning approach to phonetics."
   preview_only = false
 
 +++
-{{% alert note %}}
-Rough sketch; more coming soon...
-{{% /alert %}}
 
 I've had a number of discussions with colleagues about what I call the **deep learning approach to phonetics**. It seems that no matter how carefully I think I introduce my views (e.g. in a recent invited talk, various conference papers, and even a grant application), some **misconceptions** remain as to what I'm trying to achieve and, more generally, regarding the use of artificial neural networks. Let me set the record straight.
 
 ## The deep learning approach to phonetics
 
 I've already explained [here](../../talk/pac2019/) how I think phonetics (as well as any research field relying on quantitative data) will experience profound changes thanks to deep learning. I've also published a [short post](../neural-style-transfer/) on neural style transfer that, incidentally, illustrates how traditionally non quantitative fields can benefit from the use deep learning. Today, I'd like to address the widely held belief that artificial neural networks are ''black boxes''.
-
 
 ## 'Black-boxism'
 
