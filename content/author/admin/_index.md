@@ -106,7 +106,7 @@ interests = [
 +++
 
 I've been a **Maître de Conférences** (Associate Professor) in English phonetics at Université Paris Diderot since 2009. 
-# For the year 2018-2019, I'm a full-time CNRS researcher at [Laboratoire de Phonétique et Phonologie] (http://lpp.in2p3.fr/).
+[//]: # For the year 2018-2019, I'm a full-time CNRS researcher at [Laboratoire de Phonétique et Phonologie] (http://lpp.in2p3.fr/).
 
 I initially studied **translation**, then moved to **English studies** where I developed a keen interest for **linguistics and phonetics**. I've always enjoyed the most technical aspects of my job: working with instruments (ultrasound imaging, EEG, EGG, etc.), programming and data analysis (Praat, R, Matlab, C#, Python, etc.). I've been doing this for almost 20 years so, although I've had no formal training, you could probably call me a **data scientist**.  
 
