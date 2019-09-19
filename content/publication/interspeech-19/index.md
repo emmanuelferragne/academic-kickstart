@@ -23,7 +23,7 @@ publication_short = "Interspeech 2019"
 
 # Abstract and optional shortened version.
 abstract = "Articulatory variation of /r/ has been widely observed in rhotic varieties of English, particularly with regards to tongue body shapes, which range from retroflex to bunched. However, little is known about the production of /r/ in modern non-rhotic varieties, particularly in Anglo-English. Although it is generally agreed that /r/ may be accompanied by lip protrusion, it is unclear whether there is a relationship between tongue shape and the accompanying degree of protrusion. We present acoustic and articulatory data (via ultrasound tongue imaging and lip videos) from Anglo-English /r/ produced in both hyper- and non-hyperarticulated speech. Hyperarticulation was elicited by engaging speakers in error resolution with a simulated ``silent speech'' recognition programme. Our analysis indicates that hyperarticulated /r/ induces more lip protrusion than non-hyperarticulated /r/. However, bunched /r/ variants present more protrusion than retroflex variants, regardless of hyperarticulation. Despite some methodological limitations, the use of Deep Neural Networks seems to confirm these results. An articulatory trading relation between tongue shape and accompanying lip protrusion is proposed." 
-#abstract_short = "Like every late L2 - learner, French native speakers are characterized by a foreign accent. The literature emphasizes that the vowels / ɪ /, / ʌ / and / æ / in particular are pronounced ''à la française''."
+abstract_short = ""
 
 # Is this a featured publication? (true/false)
 featured = true
