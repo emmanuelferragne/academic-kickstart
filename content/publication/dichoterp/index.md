@@ -26,7 +26,7 @@ abstract = "OBJECTIVE: Interference suppression and response inhibition are dist
 abstract_short = "OBJECTIVE: Interference suppression and response inhibition are distinct effortful inhibitory processes. Yet they rely on partly overlapping neural substrates. Their independence was studied using an auditory paradigm"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
