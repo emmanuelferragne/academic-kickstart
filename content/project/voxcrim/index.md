@@ -58,6 +58,8 @@ I'm involved in 2 key aspects of the project:
 - [Laboratoire Parole et Langage] (http://www.lpl-aix.fr/)
 - [Laboratoire de Phonétique et Phonologie](http://lpp.in2p3.fr/)
 
+The projet website is [here](https://voxcrim.univ-avignon.fr/)
+
 
 {{% alert note %}}
 More info coming soon...
