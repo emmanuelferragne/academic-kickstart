@@ -41,7 +41,7 @@ featured = true
 tags = ["Deep Learning", "Phonetics", "Artificial Intelligence"]
 
 # Links (optional).
-#url_pdf = "https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2851.pdf"
+url_pdf = "https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2851.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
