@@ -26,7 +26,7 @@ abstract = "Articulatory variation of /r/ has been widely observed in rhotic var
 abstract_short = " "
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
