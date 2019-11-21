@@ -56,7 +56,7 @@ tags = ["Emotions"]
 url_custom = [{name = "Full text", url = "https://journals.openedition.org/anglophonia/2254"}]
 
 # Digital Object Identifier (DOI)
-#doi = ""
+doi = "10.4000/anglophonia.2254"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
