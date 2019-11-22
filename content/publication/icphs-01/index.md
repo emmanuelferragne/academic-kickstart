@@ -41,7 +41,7 @@ projects = ["voxcrim"]
 tags = ["Deep Learning", "Forensic", "Phonetics", "Artificial Intelligence"]
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/publication/333118371_TOWARDS_PHONETIC_INTERPRETABILITY_IN_DEEP_LEARNING_APPLIED_TO_VOICE_COMPARISON"
+url_pdf = "https://assta.org/proceedings/ICPhS2019/papers/ICPhS_839.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
