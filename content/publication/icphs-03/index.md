@@ -41,7 +41,7 @@ featured = false
 tags = ["Metal Studies", "Phonetics", "Music"]
 
 # Links (optional).
-url_pdf = "https://www.academia.edu/39640004/THE_SOCIOPHONETICS_OF_BRITISH_HEAVY_METAL_MUSIC_T_VOICING_AND_THE_FOOT-STRUT_SPLIT"
+url_pdf = "https://assta.org/proceedings/ICPhS2019/papers/ICPhS_2699.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
