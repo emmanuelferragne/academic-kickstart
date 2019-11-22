@@ -35,7 +35,7 @@ The figures below show what **ET VOYLA !** can do for the moment (among other th
 ![vowel heatmap](webHeat.png)
 ![vowel surface](webSurf.png)
 
-You can download the [installer here](https://github.com/emmanuelferragne/ETVOYLA). This is a Matlab standalone program (compatible with Windows 10 only): installation and start-up are particularly slow... so please be patient. 
+You can download the [installer here](https://github.com/emmanuelferragne/ETVOYLA). Go to the Releases tab and download the latest version of ETVOYLA_installer.exe. This is a Matlab standalone program (compatible with Windows 10 only): installation and start-up are particularly slow... so please be patient. 
 
 
 
