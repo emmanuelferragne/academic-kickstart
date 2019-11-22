@@ -41,7 +41,7 @@ projects = ["voxcrim"]
 tags = ["Deep Learning", "Forensic", "Phonetics", "Artificial Intelligence"]
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/publication/333118373_DEEP_LEARNING_AND_VOICE_COMPARISON_PHONETICALLY-MOTIVATED_VS_AUTOMATICALLY-LEARNED_FEATURES"
+url_pdf = "https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1381.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
