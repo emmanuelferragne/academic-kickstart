@@ -46,3 +46,4 @@ url_code = "https://github.com/ohbot/ohbot-python/tree/master/examples/ohbotOper
 
 Last year I had fun with a robot called the [Ohbot Pi] (https://www.ohbot.co.uk/buy-ohbot-pi.html). I've always been a fan of opera arias (especially tenor's) and I thought I might ''teach'' the Ohbot Pi to sing opera. The code is available [here] (https://github.com/ohbot/ohbot-python/tree/master/examples/ohbotOperaTutorial). 
 I made two videos to illustrate what you can get, one with the aria [Vesti La Giubba] (https://www.youtube.com/watch?v=cJJtYiWifbY) from Leoncavallo's Pagliacci, and one with [Nessun Dorma] (https://www.youtube.com/watch?v=LoCSa6Hx0VE) from Puccini's Turandot. It takes some manual annotation to do this, but I'm quite confident that someone will come up with a more automatic workflow...
+And [here] (https://www.youtube.com/watch?v=PrtTr0KF01E) is what happens when artificial intelligence and the singing Ohbot join forces!
