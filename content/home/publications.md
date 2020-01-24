@@ -34,6 +34,6 @@ list_format = 4
 publication_type = "-1"
 
 # Exclude publications that are shown in the Featured Publications widget?
-exclude_featured = false
+exclude_featured = true
 +++
 
