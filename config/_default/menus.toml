@@ -31,7 +31,7 @@
 [[main]]
   name = "Talks"
   #url = "#talks_featured"
-  url = "talks"
+  url = "#talks"
   weight = 3
 
 # Link to a PDF of your resume/CV from the menu.
