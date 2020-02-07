@@ -23,7 +23,7 @@ event = "R-atics6"
 location = "Paris"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
