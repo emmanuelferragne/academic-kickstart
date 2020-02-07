@@ -20,6 +20,6 @@ count = 10
 list_format = 2
 
 # Exclude talks that are shown in the Featured Talks widget?
-exclude_featured = false
+exclude_featured = true
 +++
 
