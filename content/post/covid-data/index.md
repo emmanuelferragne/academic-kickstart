@@ -29,11 +29,9 @@ La crise que nous traversons est aussi l'occasion de mettre à profit de nombreu
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1757900" data-url="https://flo.uri.sh/visualisation/1757900/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-L'animation suivante montre le nombre d'hospitalisations par jour liées au COVID-19 dans 3 départements très touchés et 3 départements peu touchés :
+L'animation suivante montre le nombre d'hospitalisations par jour liées au COVID-19 dans 3 départements très touchés et 3 départements peu touchés (choisir la vue 'Ranks' pour mieux voir ces derniers) :
 
-![departement](depHost.gif)
-
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/1764467" data-url="https://flo.uri.sh/visualisation/1764467/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
