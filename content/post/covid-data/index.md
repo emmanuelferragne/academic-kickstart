@@ -33,6 +33,17 @@ L'animation suivante montre le nombre d'hospitalisations par jour liées au COVI
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/1764467" data-url="https://flo.uri.sh/visualisation/1764467/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+C'est aussi l'occasion de se souvenir du principe d' **intégrité graphique** d'Edward Tufte et de garder à l'esprit qu'un graphique, sans que l'intention soit malhonnête, peut déformer notre perception des données. Je reproduis ci-dessous un graphique montrant le nombre de décès du Covid-19 (à partir du moment où le 10e décès est survenu) dans les 9 pays les plus touchés réalisé à partir des données de l'[Université John Hopkins] (https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases). Cette représentation m'a frappé car elle montrait le cas de la France dans le tiers supérieur, non loin de l'Italie, alors que les chiffres sont très différents (FR: 4043 IT: 13155 en date du 2 avril 2020). L'échelle logarithmique "écrase" par définition les valeurs élevés mais en contrepartie permet de mieux distinguer les courbes des pays ayant des valeurs plus basses. 
+
+![graphLog](logDC.png)
+
+A l'inverse, la même figure avec une échelle linéaire reflète plus fidèlement les chiffres bruts :
+
+![graphLin](linDC.png)
+
+On y voit clairement qu'il y a 3 fois plus de décès en Italie qu'en France. Linéaire ou logarithmique, chaque version est un compromis. Comme dans de nombreux domaines de la perception humaine, l'échelle logarithmique se rapproche peut-être davantage de la manière dont nous percevons ces chiffres. 
+
+
 
 
 
