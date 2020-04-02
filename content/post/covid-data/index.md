@@ -41,7 +41,7 @@ A l'inverse, la même figure avec une échelle linéaire reflète plus fidèleme
 
 ![graphLin](linDC.png)
 
-On y voit clairement qu'il y a 3 fois plus de décès en Italie qu'en France. Linéaire ou logarithmique, chaque version est un compromis. Comme dans de nombreux domaines de la perception humaine, l'échelle logarithmique se rapproche peut-être davantage de la manière dont nous percevons ces chiffres. 
+On y voit clairement qu'il y a 3 fois plus de décès en Italie qu'en France. Linéaire ou logarithmique, chaque version est un compromis. Comme dans de nombreux domaines de la perception humaine, l'échelle logarithmique se rapproche peut-être davantage de la manière dont nous ressentons ces chiffres. 
 
 
 
