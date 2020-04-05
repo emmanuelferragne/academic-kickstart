@@ -37,7 +37,7 @@ C'est aussi l'occasion de se souvenir du principe d' **intégrité graphique** d
 
 ![linVsLog] (linVsLog.png)
 
-Le graphique suivant montre le lien entre la population d'un département et le (logarithme du) nombre de décès liés au Covid-19 enregistrés. La courbe bleu matérialise l'équation qui résume au mieux ce lien :
+Le graphique suivant montre le lien entre la population d'un département et le (logarithme du) nombre de décès liés au Covid-19 enregistrés. La courbe bleue matérialise l'équation qui résume au mieux ce lien :
 
 *logarithme-nombre-décès = 0,098 × nombre d'habitants<sup>0,293</sup>*
 
