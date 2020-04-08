@@ -25,7 +25,7 @@ summary = "Quelques visualisations"
 +++
 
 
-La crise que nous traversons est aussi l'occasion de mettre à profit de nombreuses techniques de visualisations des données et de *machine learning*.  Les données de Santé publique France que j'ai utilisées sont téléchargeables [ici] (https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/). La représentation ci-dessous montre le nombre d'hospitalisations liées au COVID-19 dénombré chaque jour par région :
+La crise que nous traversons est aussi l'occasion de mettre à profit de nombreuses techniques de visualisations des données et de *machine learning*.  Les données de Santé publique France que j'ai utilisées sont téléchargeables [ici] (https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/). La représentation ci-dessous montre le nombre (cumulé) d'hospitalisations liées au COVID-19 par jour et par région :
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1757900" data-url="https://flo.uri.sh/visualisation/1757900/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -37,15 +37,20 @@ C'est aussi l'occasion de se souvenir du principe d' **intégrité graphique** d
 
 ![linVsLog] (linVsLog.png)
 
-Le graphique suivant montre le lien entre la population d'un département et le (logarithme du) nombre de décès liés au Covid-19 enregistrés. La courbe bleue matérialise l'équation qui résume au mieux ce lien :
+Le graphique suivant montre le lien entre la population d'un département et le (logarithme du) nombre de décès liés au Covid-19 enregistrés. La courbe bleu matérialise l'équation qui résume au mieux ce lien :
 
 *logarithme-nombre-décès = 0,098 × nombre d'habitants<sup>0,293</sup>*
 
 
-
 ![popVsDC] (lienPopDC.png)
 
+Le cartogramme de diffusion* est une représentation que j'aime particulièrement. Dans celui-ci, j'ai déformé les régions de France métropolitaine de sorte que la taille des régions reflète, le nombre d'hospitalisations au 7 avril 2020 :
 
+![cartogramme] (cartogram.png)
+Sans surprise, l'Île de France (en orange) occupe une bonne partie de l'espace. 
+
+
+*<font size="1">Gastner MT, Seguy V, More P. Fast flow-based algorithm for creating density-equalizing map projections. Proc Natl Acad Sci USA 115(10):E2156–E2164 (2018) </font> .
 
 
 
