@@ -44,10 +44,10 @@ Le graphique suivant montre le lien entre la population d'un département et le 
 
 ![popVsDC] (lienPopDC.png)
 
-Le cartogramme de diffusion* est une représentation que j'aime particulièrement. Dans celui-ci, j'ai déformé les régions de France métropolitaine de sorte que la taille des régions reflète, le nombre d'hospitalisations au 7 avril 2020 :
+Le cartogramme de diffusion* est une représentation que j'aime particulièrement. Dans celui-ci, j'ai déformé les régions de France métropolitaine de sorte que la taille des régions reflète le nombre d'hospitalisations au 7 avril 2020 :
 
 ![cartogramme] (cartogram.png)
-Sans surprise, l'Île de France (en orange) occupe une bonne partie de l'espace. 
+Sans surprise, l'Île de France (en orange clair) occupe une bonne partie de l'espace. 
 
 
 *<font size="1">Gastner MT, Seguy V, More P. Fast flow-based algorithm for creating density-equalizing map projections. Proc Natl Acad Sci USA 115(10):E2156–E2164 (2018) </font> .
