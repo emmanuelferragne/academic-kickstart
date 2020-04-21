@@ -26,7 +26,7 @@ abstract = "Hearing swear words or taboo words causes us discomfort. Research su
 #abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
