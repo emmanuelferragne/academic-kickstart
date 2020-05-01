@@ -41,7 +41,7 @@ projects = []
 tags = ["Phonetics", "Research"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/340809794_Loose_lips_and_tongue_tips_The_central_role_of_the_r-typical_labial_gesture_in_Anglo-English"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
