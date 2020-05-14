@@ -2,8 +2,8 @@
 title = "Because I got high #2"
 subtitle = "On the G5 in Jesus Christ Superstar's Gethsemane"
 
-date = 2020-03-25T00:00:00
-lastmod = 2020-03-25T00:00:00
+date = 2020-05-14T00:00:00
+lastmod = 2020-05-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
