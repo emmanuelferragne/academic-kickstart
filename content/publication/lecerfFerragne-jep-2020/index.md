@@ -41,7 +41,7 @@ projects = []
 tags = ["Phonetics", "Voice"]
 
 # Links (optional).
-url_pdf = "https://jep-taln2020.loria.fr/article-43/"
+url_pdf = "https://hal.archives-ouvertes.fr/hal-02798555v2"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
