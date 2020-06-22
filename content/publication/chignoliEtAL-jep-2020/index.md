@@ -41,7 +41,7 @@ projects = []
 tags = ["Phonetics", "Deep Learning"]
 
 # Links (optional).
-url_pdf = "https://jep-taln2020.loria.fr/article-25/"
+url_pdf = "https://hal.archives-ouvertes.fr/hal-02798521v2/document"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
