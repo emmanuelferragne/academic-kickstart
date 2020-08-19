@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
 
-tags = ["Music"]
+tags = ["Phonetics"]
 summary = "On French liaison"
 [image]
   # Caption (optional)
