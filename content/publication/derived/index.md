@@ -22,7 +22,7 @@ publication = "The Corpus Phonology of English: Multifocal Analyses of Variation
 publication_short = "The Corpus Phonology of English"
 
 # Abstract and optional shortened version.
-#abstract = "toto"
+abstract = "My goal is to examine acoustic and perceptual data from various locations in the British Isles – Enniskillen (Ulster), Glasgow, and Hull – in order to better understand the production and perception of certain *Derived Phonological Contrasts* found in English. This research falls within a broader framework that I call the *Gradient Phonemicity Hypothesis* (GPH), according to which a whole range of cognitive statuses is assumed to exist between allophony and phonemicity, and a difference between two sounds can be described by some measure of how typically allophonic or phonemic their relation is. In addition to the well-known attributes of maximal phonemicity – e.g. phonological unpredictability, high functional load/type frequency, etc. – it is my contention that a more thorough understanding of gradient phonemicity can be gained by analysing acoustic, articulatory and perceptual data."
 #abstract_short = "toto"
 
 # Is this a featured publication? (true/false)
@@ -54,6 +54,8 @@ tags = ["Phonetics"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+url_custom = [{name = "book", url = "https://edinburghuniversitypress.com/book-the-corpus-phonology-of-english.html"}]
 
 # Digital Object Identifier (DOI)
 #doi = "10.21437/Interspeech.2019-2851"
