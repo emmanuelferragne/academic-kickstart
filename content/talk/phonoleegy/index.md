@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-10-01T10:30:00
-time_end = 2020-10-02T15:18:00
+time_start = 2020-10-01T13:00:00
+time_end = 2020-10-02T14:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Maud Pélissier", "Emmanuel Ferragne"]
@@ -30,7 +30,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["voxcrim"]
+projects = ["voxcrim"]
 #projects = []
 
 # Tags (optional).
