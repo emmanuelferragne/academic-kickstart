@@ -23,7 +23,7 @@ event_url = "https://labphon.org/labphon17"
 location = "Vancouver"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
