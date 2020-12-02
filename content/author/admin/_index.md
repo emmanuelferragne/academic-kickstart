@@ -28,14 +28,14 @@ interests = [
 ]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Phonetics"
-  institution = "Université Lyon 2"
-  year = 2008
+#[[education.courses]]
+#  course = "PhD in Phonetics"
+#  institution = "Université Lyon 2"
+#  year = 2008
 
-[[education.courses]]
-  course = "IUF junior"
-  institution = "(promotion 2012)"
+#[[education.courses]]
+#  course = "IUF junior"
+#  institution = "(promotion 2012)"
 #  year = 2009
 
 #[[education.courses]]
