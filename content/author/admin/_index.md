@@ -33,9 +33,9 @@ interests = [
   institution = "Université Lyon 2"
   year = 2008
 
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
+[[education.courses]]
+  course = "IUF junior"
+  institution = "(promotion 2012)"
 #  year = 2009
 
 #[[education.courses]]
