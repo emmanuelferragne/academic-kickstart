@@ -22,7 +22,7 @@ event_url = "http://univ-cotedazur.fr/events/phonoleegy"
 location = "Nice"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
