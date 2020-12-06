@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-VZKZN6KSN6"
+googleAnalytics = "G-6LQFRM0J2T"
 
 highlight_languages = ["matlab"]
 
