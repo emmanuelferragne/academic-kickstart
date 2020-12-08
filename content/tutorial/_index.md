@@ -29,7 +29,7 @@ This page is in French because it mainly targets people studying in France.
 
 3) The pronunciation of English by French learners: how artificial intelligence predicts intelligibility and nativeness from the acoustic signal
 
-Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr)
+Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)
 
 <!--Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond.--> 
 
@@ -39,7 +39,9 @@ Want to learn more about these hot topics? Don't hesitate to [send me and email]
 
 My short style guide for Master's theses in English studies at Paris University [here in French] (guideMiseEnFormeV02.pdf).
 
-The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf) and can be downloaded [here] (latexTemplate.zip).  
+The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf) and can be downloaded [here] (latexTemplate.zip). 
+
+In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
 
 ## <!--Divers-->
 
