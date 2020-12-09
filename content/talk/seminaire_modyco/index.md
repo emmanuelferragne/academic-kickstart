@@ -48,7 +48,7 @@ slides = ""
 # Links (optional).
 #url_pdf = "talk/ratics-6/R_atics_2019.pdf"
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=7dQjeqGT3FI"
 url_code = ""
 
 # Does the content use math formatting?
