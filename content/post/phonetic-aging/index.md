@@ -4,7 +4,7 @@ title = "aʒɛnda, aʒɛ̃da, or aʒɑ̃da?"
 subtitle = "On getting phonetically and phonologically old"
 
 date = 2020-12-04T00:00:00
-lastmod = 2020-04-25T00:00:00
+lastmod = 2020-12-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
