@@ -14,7 +14,7 @@ tags = ["Phonetics"]
 summary = "On getting phonetically and phonologically old"
 [image]
   # Caption (optional)
-  #caption = "Photo by Estée Janssens on Unsplash"
+  caption = "Photo by Estée Janssens on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
