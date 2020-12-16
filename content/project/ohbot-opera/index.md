@@ -27,7 +27,7 @@ slides = ""
 #url_pdf = ""
 #url_slides = ""
 url_video = "https://www.youtube.com/watch?v=cJJtYiWifbY"
-url_code = "https://github.com/ohbot/ohbot-python/tree/master/examples/Pi/ohbotOperaTutorial"
+url_code = "https://github.com/emmanuelferragne/ohbot-python/tree/master/examples/Pi/ohbotOperaTutorial"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -44,6 +44,6 @@ url_code = "https://github.com/ohbot/ohbot-python/tree/master/examples/Pi/ohbotO
   focal_point = "Smart"
 +++
 
-Last year I had fun with a robot called the [Ohbot Pi] (https://www.ohbot.co.uk/ohbot-for-python.html). I've always been a fan of opera arias (especially tenor's) and I thought I might ''teach'' the Ohbot Pi to sing opera. The code is available [here] (https://github.com/ohbot/ohbot-python/tree/master/examples/Pi/ohbotOperaTutorial). 
+Last year I had fun with a robot called the [Ohbot Pi] (https://www.ohbot.co.uk/ohbot-for-python.html). I've always been a fan of opera arias (especially tenor's) and I thought I might ''teach'' the Ohbot Pi to sing opera. The code is available [here] (https://github.com/emmanuelferragne/ohbot-python/tree/master/examples/Pi/ohbotOperaTutorial). 
 I made two videos to illustrate what you can get, one with the aria [Vesti La Giubba] (https://www.youtube.com/watch?v=cJJtYiWifbY) from Leoncavallo's Pagliacci, and one with [Nessun Dorma] (https://www.youtube.com/watch?v=LoCSa6Hx0VE) from Puccini's Turandot. It takes some manual annotation to do this, but I'm quite confident that someone will come up with a more automatic workflow...
 And [here] (https://www.youtube.com/watch?v=PrtTr0KF01E) is what happens when artificial intelligence and the singing Ohbot join forces!
