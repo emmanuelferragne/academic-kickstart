@@ -21,19 +21,26 @@ This page is in French because it mainly targets people studying in France.
 
 **You are a prospective M1 or M2 student in English Studies or Linguistics at Paris University looking for an exciting research topic in phonetics?**
 
-## Here are my **hot topics** for 2020-2021:
+## Here are my **hot topics** for 2021-2022:
 
-1) Acoustic-articulatory trading relations in the production and perception of English sounds
+1. How police procedural TV series influence our perception of forensic speech science.
 
-2) Forensic voice comparison: a wide range of topics will be available, from technological applications to social matters
+2. What in the acoustic signal leads us to perceive two voices as similar or different. 
 
-3) The pronunciation of English by French learners: how artificial intelligence predicts intelligibility and nativeness from the acoustic signal
+3. Articulatory and sociolinguistic factors that control pronunciation differences between speaking and singing voice. 
+
+4. Interactions between tongue and lips in the production of English /r/. 
+
+5. The pronunciation of English by French learners: can artificial intelligence predict intelligibility and nativeness from the acoustic signal?
+
+6. Designing computerized pronunciation exercises for French learners of English.
+
 
 Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)
 
 <!--Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond.--> 
 
-<!--Si cela vous intéresse, merci de me contacter dès le mois de juin pour l'année universitaire suivante.-->
+<!--Si cela vous intéresse, merci de me contacter dès le mois de mai pour l'année universitaire suivante.-->
 
 ## Useful links
 
