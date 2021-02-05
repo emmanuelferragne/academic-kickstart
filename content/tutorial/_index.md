@@ -19,7 +19,10 @@ type = "docs"  # Do not modify.
 This page is in French because it mainly targets people studying in France.
 {{% /alert %}}-->
 
+
 **You are a prospective M1 or M2 student in English Studies or Linguistics at Paris University looking for an exciting research topic in phonetics?**
+
+Never miss important updates: <a href="https://twitter.com/PhoneticsMore?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PhoneticsMore</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Here are my **hot topics** for 2021-2022:
 
