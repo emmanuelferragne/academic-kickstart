@@ -40,7 +40,7 @@ height = "200px"
 
 [[item]]
 
-    overlay_img = "headers/jeptalnup.jpg"
+    overlay_img = "headers/recording2.jpg"
 	
 [[item]]
 
