@@ -26,7 +26,7 @@ abstract = "Second language (L2) learners frequently encounter persistent diffic
 abstract_short = "Second language (L2) learners frequently encounter persistent difficulty in perceiving certain non-native sound contrasts, i.e., a phenomenon called “phonological deafness”..."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
