@@ -44,6 +44,9 @@ slides = ""
   focal_point = "Center"
 +++
 
+# News
+- **11 June**: the students who participated in the first phase of the project were asked to fill in a questionnaire; the results are available [here (document in French)](rapportSemestre1.pdf). 
+
 # Quick facts
 - "Pedagogical innovation" project funded by [Idex Université de Paris] (https://u-paris.fr/idex-universite-paris/)
 - **Years**: 2021-2022
