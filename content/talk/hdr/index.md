@@ -13,7 +13,7 @@ authors = ["Emmanuel Ferragne"]
 
 # Abstract and optional shortened version.
 abstract = "Since scientists' individual epistemological preferences infallibly shape the output of their research, this thesis starts with a presentation of the author's position with respect to a number of methodological issues pertaining to the field of contemporary phonetics. Such concepts as corpora, experimental techniques, quantitative methods, and the role of technology are discussed with the aim of making the author's scientific values and biases more explicit. The following chapters offer a selection of research works the author has carried out since his PhD in 2008. They show an evolution from corpus-based acoustic phonetics to more experimental protocols involving a great diversity of instruments and data types. From the automatic classification and acoustic-articulatory description of British Isles accents to the development of the gradient phonemicity hypothesis; from the study of speech rhythm to psycholinguistic experiments with French learners of English, the thesis covers the main findings and highlights how this wide array of interests and methods has served two consistent goals: an agnostic approach to new puzzles, and the possibility to efficiently help students develop their own scientific identity. The final part of the thesis addresses the forthcoming paradigm shift that deep learning will bring about in many academic fields with illustrations from the author's recent work."
-abstract_short = "Since scientists' individual epistemological preferences infallibly shape the output of their research, this thesis starts with a presentation of the author's position with respect to a number of methodological issues pertaining to the field of contemporary phonetics..."
+#abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Soutenance Habilitation à Diriger des Recherches"
@@ -47,7 +47,7 @@ tags = ["Phonetics", "Deep Learning", "Research"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/profile/Emmanuel-Ferragne/publication/352888855_Du_groupe_a_l'individu_du_corpus_a_l'experimentation_du_spectrogramme_au_deep_learning_pour_la_phonetique_Habilitation_document_de_synthese/links/60de0f15299bf1ea9ed5db63/Du-groupe-a-lindividu-du-corpus-a-lexperimentation-du-spectrogramme-au-deep-learning-pour-la-phonetique-Habilitation-document-de-synthese.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -75,5 +75,5 @@ math = true
 - Anne PRZEWOZNY-DESRIAUX
 
 {{% alert note %}}
-La soutenance, en français, aura lieu à huis-clos (jury + candidat seulement) à Aix-en-Provence et sera retransmise simultanément au moyen de Zoom ; un lien sera communiqué ultérieurement.
+Document de synthèse available for download [here](https://www.researchgate.net/profile/Emmanuel-Ferragne/publication/352888855_Du_groupe_a_l'individu_du_corpus_a_l'experimentation_du_spectrogramme_au_deep_learning_pour_la_phonetique_Habilitation_document_de_synthese/links/60de0f15299bf1ea9ed5db63/Du-groupe-a-lindividu-du-corpus-a-lexperimentation-du-spectrogramme-au-deep-learning-pour-la-phonetique-Habilitation-document-de-synthese.pdf)
 {{% /alert %}}
