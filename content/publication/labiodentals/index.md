@@ -26,7 +26,7 @@ abstract = "The secondary labial articulation which accompanies the post-alveola
 abstract_short = "Our results suggest that there is a recognisable difference between the lip postures for /r/ and /w/, which a convolutional neural network is able to detect with a very high degree of accuracy. Measurements of the lip area acquired using an artificial neural network suggest that /r/ indeed has a labiodental-like lip posture, thus providing a phonetic account for labiodentalisation. We finish with a discussion of the methodological implications of using deep learning for future analyses of phonetic data."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
