@@ -39,7 +39,7 @@ Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_s
 6. Designing computerized pronunciation exercises for French learners of English.
 
 
-Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)
+Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)
 
 <!--Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond.--> 
 
