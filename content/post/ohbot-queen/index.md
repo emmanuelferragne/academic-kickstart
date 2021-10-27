@@ -11,7 +11,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
 
-tags = ["Phonetic", "Music"]
+tags = ["Phonetics", "Music"]
 summary = "Ohbot sings Queen song"
 [image]
   # Caption (optional)
