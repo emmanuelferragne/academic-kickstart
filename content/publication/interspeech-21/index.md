@@ -38,7 +38,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep learning", "Phonetics", "Artificial Intelligence", "Forensic"]
+tags = ["Deep Learning", "Phonetics", "Artificial Intelligence", "Forensic"]
 
 # Links (optional).
 url_pdf = "https://www.isca-speech.org/archive/pdfs/interspeech_2021/chanclu21_interspeech.pdf"
