@@ -51,7 +51,7 @@ My short style guide for Master's theses in English studies at Paris University 
 
 The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf) and can be downloaded [here] (latexTemplate.zip). 
 
-In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
+In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me an email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
 
 ## <!--Divers-->
 
