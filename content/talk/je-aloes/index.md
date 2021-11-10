@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-11-19T12:00:00
+time_start = 2021-11-19T11:50:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ abstract = ""
 
 # Name of event and optional event URL.
 event = "Journée d’étude de l’ALOES 2021 – Enseigner la phonologie de l’anglais : de la motivation à l’évaluation"
-event_url = "https://aloesfrance.wordpress.com/2021/09/12/journee-detude-de-laloes-2021-enseigner-la-phonologie-de-langlais-de-la-motivation-a-levaluation/"
+event_url = "https://jealoes2021.sciencesconf.org/"
 
 # Location of event.
 location = "Toulouse"
