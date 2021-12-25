@@ -23,7 +23,7 @@ event_url = "https://jealoes2021.sciencesconf.org/"
 location = "Toulouse"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
