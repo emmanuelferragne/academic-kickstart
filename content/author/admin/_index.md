@@ -11,7 +11,7 @@ role = "Associate Professor of Phonetics"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 #organizations = [ { name = "Paris Diderot University", url = "https://www.univ-paris-diderot.fr/" }]
-organizations = [ { name = "Université de Paris", url = "https://u-paris.fr/" }, { name = "Labex EFL", url = "https://en.labex-efl.fr/"},{ name = "CLILLAC-ARP", url = "http://www.clillac-arp.univ-paris-diderot.fr/index" }, {name = "IUF junior promo 2012", url = "https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html" }]
+organizations = [ { name = "Université de Paris", url = "https://u-paris.fr/" }, {name = "IUF junior promo 2012", url = "https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html" }, { name = "Labex EFL", url = "https://en.labex-efl.fr/"},{ name = "CLILLAC-ARP", url = "http://www.clillac-arp.univ-paris-diderot.fr/index" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Phonetician, AI enthusiast, occasional musician, amateur kickboxer."
