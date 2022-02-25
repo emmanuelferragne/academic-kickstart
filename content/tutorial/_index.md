@@ -22,24 +22,18 @@ This page is in French because it mainly targets people studying in France.
 
 **You are a prospective M1 or M2 student in English Studies or Linguistics at Paris University looking for an exciting research topic in phonetics?**
 
-Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Here are my **hot topics** for 2022-2023:
 
-## Here are my **hot topics** for 2021-2022:
+1. Why do we perceive two voices as similar or different?
 
-1. How police procedural TV series influence our perception of forensic speech science.
+2. Experimental approaches to accent stereotypes. 
 
-2. What in the acoustic signal leads us to perceive two voices as similar or different. 
+3. How TV series influence our perception of forensic speech science.
 
-3. Articulatory and sociolinguistic factors that control pronunciation differences between speaking and singing voice. 
+4. Pronunciation differences between speaking and singing voice. 
 
-4. Interactions between tongue and lips in the production of English /r/. 
+__Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)__
 
-5. The pronunciation of English by French learners: can artificial intelligence predict intelligibility and nativeness from the acoustic signal?
-
-6. Designing computerized pronunciation exercises for French learners of English.
-
-
-Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)
 
 <!--Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond.--> 
 
@@ -47,11 +41,13 @@ Want to learn more about these hot topics? Don't hesitate to [send me an email](
 
 ## Useful links
 
+Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 My short style guide for Master's theses in English studies at Paris University [here in French] (guideMiseEnFormeV02.pdf).
 
 The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf) and can be downloaded [here] (latexTemplate.zip). 
 
-In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me an email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
+In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
 
 ## <!--Divers-->
 
