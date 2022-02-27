@@ -54,10 +54,10 @@ slides = ""
 The VoCSI-Telly project aims to analyse the way American police procedural TV series can influence our perception of science, more particularly in the field of speech technologies and forensic voice comparison. This effect has been shown to hold not only for the general public (e.g. trial jurors) but also for police and justice professionals. Our multidisciplinary consortium, that includes phoneticians, computer scientists, film studies specialists as well as forensic scientists, will scrutinize chosen excerpts from TV series (e.g. CSI) in an attempt to identify narrative and aesthetic processes that contribute to propagating numerous myths about science and the work of forensic scientists. Through exaggerated distortions of time and vision, reinforced by overloaded information in the viewers' audio-visual space, these series represent science as an error-free activity that replaces investigators' logical thinking. Series from the CSI era, with their absolute trust in logical empiricism, will be compared to other productions (e.g. Columbo, The X-Files, Sherlock, The Wire, etc.) where human reasoning and doubts are central. Our first task, with expected pedagogical impact, will be to draw the boundary between fact and fiction. Then the various mechanisms that force viewers to behave like eye-witnesses will be studied. And finally, we will test the hypothesis that the increasing inclusion of women and characters from minority populations enhances the perceived reliability of scientific evidence. 
 
 ## Participants:
-- CLILLAC-ARP: Emmanuel Ferragne, Anne Guyot-Talbot
-- [LARCA](http://www.larca.univ-paris-diderot.fr/en/home/): Martine Beugnet, Emmanuelle Delanoë-Brun
-- Service Central de la Police Technique et Scientifique: Laurianne Georgeton, Christophe Stecoli
-- [Laboratoire Informatique d'Avignon (LIA)] (http://lia.univ-avignon.fr/): Jean-François Bonastre, Corinne Fredouille
+- CLILLAC-ARP
+- [LARCA](http://www.larca.univ-paris-diderot.fr/en/home/)
+- Service National de Police Scientifique
+- [Laboratoire Informatique d'Avignon (LIA)] (http://lia.univ-avignon.fr/)
 
 
 
