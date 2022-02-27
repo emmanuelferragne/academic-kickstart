@@ -38,7 +38,7 @@ I was lucky enough to find a __website that stores old TV listings__ (from Jan.,
 
 In fact, sometimes as many as 5 episodes of this version of *Law and Order* have been shown in a row. If you add up the hits from the 22 series shown in the figure, you get 2,500. Therefore, although my short program needs refining, all the __evidence points to the ubiquity of English-speaking crime shows on French TV__. Whether the 'young adults' in question still watch TV the way older adults do is, of course, a totally different question. Here's the Matlab program, by the way:
 
-```Matlab
+```matlab
 tic %takes about 45 secs to run
 dt = datetime(20200101, 'ConvertFrom', 'yyyymmdd');
 dateVec = dt:1:date;
