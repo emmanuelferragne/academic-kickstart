@@ -30,7 +30,7 @@ In a recent talk at __Service National de Police Scientifique__, someone suggest
 
 I was quite confident that such series were __still widely available on French TV__. 
 
-Of course, TV viewing habits vary from one generation to the next. But if we assume that some of the young adults in question still exhibit the kind of 'lazy' __channel-surfing behaviour my generation is familiar with__, they will, I thought, sooner or later come across one of these series.
+Of course, TV viewing habits vary from one generation to the next. But if we assume that some of the young adults in question still exhibit the kind of 'lazy' __channel-surfing behaviour that is typical of my generation__, they will, I thought, sooner or later come across one of these series.
 
 I was lucky enough to find a __website that stores old TV listings__ (from Jan., 1st 2020 onwards). And I wrote a short program that produced the following figure. It's still very coarse, but it shows that, for example, if you look at the tallest bar, *New York unité spéciale* (*Law and Order: Special Victims Unit*) appeared at least once about 450 times (out of the 790 prime time slots since Jan., 1st 2020). 
 
@@ -59,8 +59,14 @@ resultats(compteur, :) = regexpi(myProg, nomSeries);
 compteur = compteur + 1;
 end
 toc
+nonVides = cellfun(@(x) ~isempty(x), resultats);
+totalSeries = sum(nonVides,1);
+newTab = table(nomSeries(logical(totalSeries))', totalSeries(logical(totalSeries))');
+newTab.Properties.VariableNames = {'series', 'nombre_match'};
+newTab.series = replace(newTab.series, '<', '');
+bar(newTab.nombre_match)
+set(gca, 'XTickLabel', newTab.series, 'XTick', 1:length(newTab.series))
+title(['Nombre de soirs où au moins 1 épisode a été diffusé depuis ' datestr(dateVec(1))], 'FontName', 'Garamond',...
+    'FontSize',24);
+set(gca, 'FontName', 'Garamond', 'FontSize', 18)
 ```
-
-
-
-
