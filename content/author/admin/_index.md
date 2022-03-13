@@ -11,7 +11,7 @@ role = "Associate Professor of Phonetics"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 #organizations = [ { name = "Paris Diderot University", url = "https://www.univ-paris-diderot.fr/" }]
-organizations = [ { name = "Université de Paris", url = "https://u-paris.fr/" }, {name = "IUF junior promo 2012", url = "https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html" }, { name = "Labex EFL", url = "https://en.labex-efl.fr/"},{ name = "CLILLAC-ARP", url = "http://www.clillac-arp.univ-paris-diderot.fr/index" } ]
+organizations = [ { name = "Université Paris Cité", url = "https://u-paris.fr/" }, {name = "IUF junior promo 2012", url = "https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html" }, { name = "Labex EFL", url = "https://en.labex-efl.fr/"},{ name = "CLILLAC-ARP", url = "http://www.clillac-arp.univ-paris-diderot.fr/index" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Phonetician, AI enthusiast, occasional musician, amateur kickboxer."
@@ -106,7 +106,7 @@ interests = [
 
 +++
 
-I've been a **Maître de Conférences** (Associate Professor) in English phonetics at Université de Paris since 2009.
+I've been a **Maître de Conférences** (Associate Professor) in English phonetics at Université Paris Cité since 2009.
 
 I initially studied **translation**, then moved to **English studies** where I developed a keen interest for **linguistics and phonetics**. I've always enjoyed the most technical aspects of my job: working with instruments (ultrasound imaging, EEG, EGG, etc.), programming and data analysis (Praat, R, Matlab, C#, Python, etc.). I've been doing this for 20 years so, although I've had no formal training, you could probably call me a **data scientist**.  
 
