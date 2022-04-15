@@ -66,7 +66,36 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-__Appel à communication__
+
+__14h00 : Introduction__ par Emmanuel Ferragne et Laurianne Georgeton
+
+__Communications orales__
+
+ - 14h10 : __Voir le son, écouter l’image__ par Martine Beugnet, Margaux Cecchini, Emmanuelle Delanoë-Brun et Anne Guyot-Talbot
+
+- 14h30 : __Perturbation du débit et reconnaissance des voix__ par Christine Meunier, Benjamin O’Brien et Alain Ghio
+
+- 14h50 : __Quelles preuves pour l’identité ? Contribution de la linguistique au domaine juridique__ par Mélissa Barkat-Defradas, Rim Hamdi et Raphaël Belaiche
+
+- 15h10 : __De la saisine aux témoignages en cour d’assises : travail de l’expert en police scientifique__ par Laurianne Georgeton et Sophie Vasseur
+
+__Démonstrations et discussions__
+
+15h30 : le comité scientifique propose :
+
+ - De confronter des extraits de séries policières avec la réalité criminalistique ;
+ 
+ - L’écoute d’extraits audio authentiques ;
+ 
+ - Des démonstrations d’expériences de perception ;
+ 
+- Une discussion générale autour de la voix en criminalistique. 
+
+__16h30 : fin de l’atelier__
+
+<!--__Appel à communication__
+
+
 
 Malgré toute l'attention accordée au contrôle de nos protocoles de recherche sur la parole, un certain nombre de biais interfère avec notre raisonnement. Ces biais sont également présents en criminalistique quand il est demandé à un spécialiste de donner un avis sur la ressemblance entre deux échantillons de voix. En effet, au-delà de la mesure objective reflétant la proximité entre ces deux échantillons 1) le contexte général lié à l'enquête, 2) les stéréotypes véhiculés par la voix des locuteurs et 3) les mythes sur les sciences de la parole issus des œuvres de fiction (cinéma, séries policières, littérature) sont autant d'éléments qui peuvent s'immiscer dans le déroulement d'une expertise ou conditionner sa réception dans un tribunal.
 
@@ -89,6 +118,6 @@ __Comité scientifique :__
 
 - Christine Meunier (Laboratoire Parole et Langage, UMR – Aix-Marseille Université)
 
-- Sophie Vasseur (Institut de Recherche Criminelle de la Gendarmerie Nationale).
+- Sophie Vasseur (Institut de Recherche Criminelle de la Gendarmerie Nationale).-->
 
 __Pour toute question, n'hésitez pas à nous contacter : [sufevoc2022@gmail.com](mailto:sufevoc2022@gmail.com)__
