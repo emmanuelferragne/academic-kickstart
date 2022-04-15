@@ -1,6 +1,6 @@
 +++
 title = "The phonetic basis of the guttural natural class in Levantine Arabic: Evidence from coarticulation and energy components using Deep Learning and Random Forests"
-date = 2012-06-12T00:00:00  # Schedule page publish date.
+date = 2020-06-12T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
