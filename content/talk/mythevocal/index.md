@@ -23,7 +23,7 @@ event = "__Conférence Grand Public__ - Amphi Weiss, 45 rue des Saints-Pères, _
 #location = "Amphi Weiss, 45 rue des Saints-Pères, Paris"
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
