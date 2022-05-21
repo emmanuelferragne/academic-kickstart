@@ -23,7 +23,7 @@ event = "Atelier aux 34e Journées d'Études sur la Parole 2022"
 location = "Noirmoutier"
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
