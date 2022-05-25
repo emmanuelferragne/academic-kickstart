@@ -13,7 +13,7 @@ authors = ["Coline Caillol", "Emmanuel Ferragne"]
 
 # Abstract and optional shortened version.
 abstract = "S’inscrivant dans la lignée de Trudgill (1983), cet article vise à comprendre le phénomène d’américanisation de la prononciation dans la voix chantée des artistes britanniques des années 1980. Le Heavy Metal a été sélectionné comme genre musical typiquement britannique à son origine, et étudié à l'aune de deux points de référence : la pop britannique et la pop américaine. Les voyelles de TRAP-BATH et LOT, dont les réalisations divergent entre les deux variétés d'anglais (britannique et américaine), ont fait l'objet d'analyses acoustiques chez six artistes. Nos résultats montrent qu'il existe un certain degré d'américanisation dans les productions chantées des artistes britanniques, qui est cependant plus marqué chez les groupes de Heavy Metal que chez les chanteurs de pop. La Discussion revient sur les divers types de paramètres (sociophonétiques, articulatoires, etc.) qui contraignent ce phénomène d'américanisation, et analyse la fiabilité des mesures acoustiques (formants et MFCC) calculées."
-abstract_short = "... vise à comprendre le phénomène d’américanisation de la prononciation dans la voix chantée des artistes britanniques des années 1980..."
+abstract_short = "... comprendre le phénomène d’américanisation de la prononciation dans la voix chantée des artistes britanniques des années 1980..."
 
 # Name of event and optional event URL.
 event = "Journées d'Études sur la Parole"
