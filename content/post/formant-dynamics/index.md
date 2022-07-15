@@ -156,6 +156,21 @@ ggplot(meltCenterDF, aes(timeStep, value,
   guides(color=guide_legend("CONDITION")) +
   scale_x_discrete(breaks = NULL)
 ```
+
+__Quick edit (2022-07-15):__ 
+
+I wrote this tutorial 2 years ago and the whole workflow is still working. However, I've just run into a minor issue today with the following error message: "'Rcpp_precious_remove' not provided by package 'Rcpp'"
+
+I re-installed and loaded Rcpp explictly:
+```R
+install.packages('Rcpp')
+library(Rcpp)
+```
+And everything worked nicely again!
+If you have trouble reproducing my tutorial, please don't hesitate to [contact me](mailto:emmanuel.ferragne@u-paris.fr?subject=dynamic formant tutorial).
+
+__End of edit__
+
 ![smooth curves](smoothCurves.png)
 
 Once you master the procedure, you'll be ready to apply it to your own data. The easiest way to have the right structure for you dataset is to perform your formant analysis following the workflow I describe [here](https://github.com/emmanuelferragne/CminR-Praatik). 
