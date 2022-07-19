@@ -43,9 +43,9 @@ __Want to learn more about these hot topics? Don't hesitate to [send me and emai
 
 Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-My short style guide for Master's theses in English studies at Paris University [here in French] (guideMiseEnFormeV02.pdf).
+My short style guide for Master's theses in English studies at Université Paris Cité [here in French] (guideMiseEnFormeV02.pdf).
 
-The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf) and can be downloaded [here] (latexTemplate.zip). 
+The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf). By far the easiest way to start writing your own thesis is to create a [free Overleaf account](https://fr.overleaf.com/), copy [this projet] (https://fr.overleaf.com/read/wpgbkbgmfgcw) to your dashboard, and edit the relevant parts. 
 
 In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
 
