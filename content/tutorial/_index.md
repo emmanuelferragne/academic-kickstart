@@ -45,6 +45,8 @@ Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_s
 
 My short style guide for Master's theses in English studies at Université Paris Cité [here in French] (guideMiseEnFormeV02.pdf).
 
+Examples of very good Master's theses in English linguistics at Université Paris Cité are available [here](https://cloud.parisdescartes.fr/index.php/s/CS2x4afK2rACPoj).
+
 The LaTeX template for your thesis offers [this type of output] (memoirthesis.pdf). By far the easiest way to start writing your own thesis is to create a [free Overleaf account](https://fr.overleaf.com/) and copy [this project] (https://fr.overleaf.com/read/wpgbkbgmfgcw). Open this link, click on "back to your projects" (the little house); then under "Actions", copy the project, rename it, and then you can edit the relevant parts.  
 
 In case you are interested in a PhD, see my [quick FAQ in French] (guideThese.pdf) and feel free to  [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=PhD query).
