@@ -40,8 +40,11 @@ height = "200px"
 
 [[item]]
 
-    overlay_img = "headers/recording2.jpg"
-	
+  overlay_img = "headers/forensicPhonetics.png"
+  cta_label = "Learn about forensic phonetics..."
+  cta_url = "https://www.emmanuelferragne.com/tags/forensic/"
+  cta_icon_pack = "fas"
+  cta_icon = "search"
 [[item]]
 
     overlay_img = "headers/myself2.jpg"
