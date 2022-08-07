@@ -19,6 +19,14 @@ height = "200px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
 
+  overlay_img = "headers/forensicPhonetics.png"
+  cta_label = "Learn about forensic phonetics..."
+  cta_url = "https://www.emmanuelferragne.com/tags/forensic/"
+  cta_icon_pack = "fas"
+  cta_icon = "search"
+
+[[item]]
+
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
@@ -40,12 +48,6 @@ height = "200px"
 
 [[item]]
 
-  overlay_img = "headers/forensicPhonetics.png"
-  cta_label = "Learn about forensic phonetics..."
-  cta_url = "https://www.emmanuelferragne.com/tags/forensic/"
-  cta_icon_pack = "fas"
-  cta_icon = "search"
-[[item]]
 
     overlay_img = "headers/myself2.jpg"
 	
