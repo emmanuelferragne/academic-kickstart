@@ -32,7 +32,7 @@ This page is in French because it mainly targets people studying in France.
 
 4. Pronunciation differences between speaking and singing voice. 
 
-__Want to learn more about these hot topics? Don't hesitate to [send me and email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)__
+__Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr?subject=Master research topic)__
 
 
 <!--Je propose des sujets de recherche en lien avec la voix et la phonétique, mettant en oeuvre des techniques instrumentales comme l'analyse acoustique, l'échographie de la langue, l'électro-glottographie, l'électro-encéphalographie, etc., et des techniques d'analyse de données avancées comme l'apprentissage profond.--> 
