@@ -40,7 +40,7 @@ projects = ["vocsitelly"]
 tags = ["Phonetics", "Forensic"]
 
 # Links (optional).
-#url_pdf = "https://jep-taln2020.loria.fr/article-91/"
+url_pdf = "https://www.isca-speech.org/archive/jep_2022/ferragne22_jep.html"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
